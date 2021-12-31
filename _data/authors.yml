@@ -15,7 +15,7 @@ author1:
     I am enthusiastic about human emotions, abnormal and self-destructive behaviours, deep learning, NLP, computer vision, and game AI. 
     
     Although my interest covers broad areas it comes down to just one theme: 
-    <p style="text-align:center;">
+    <p style="text-align:center;font-weight:bold">
     **AI for vulnerable people**
     </p>
     
@@ -34,18 +34,18 @@ author1:
     #### Georgia Institute of Technology     
     <p style="text-align:left;">
       M.S. Computer Science	
-      <span style="float:right;">
-       <span style="color:steelblue;">
+        <span style="color:steelblue;font-weight:bold;float:right">
           Jan 2022 - Present
-        </span> </p>
+        </span> 
+       </p>
 
     #### London School of Economics and Political Science 
     <p style="text-align:left;">
         M.S. Media and Communications (Data & Society) 
-      <span style="float:right;">
-      <span style="color:steelblue;">
+         <span style="color:steelblue;font-weight:bold;float:right">
           Sep 2019 - Dec 2020
-        </span> </p>
+        </span> 
+       </p>
 
     * Dissertation: “Combating Cyberbullying on Social Media: Cyberbullying Detection Using Deep Learning” with *Distinction*
 
