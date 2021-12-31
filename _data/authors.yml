@@ -8,22 +8,26 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    ## Professional Experience
-    #### Anti-Cheat Data Scientist at Krafton, PUBG studio 
-    * Company Description: PUBG Corporation is the publisher and developer of the 2017 blockbuster battle royale video game, PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG), on multiple platforms. Since its release, PUBG has received worldwide acclaim, achieving seven Guinness World Records and winning multiple game awards worldwide.
-    * Roles
-      * Leading a team project to build, develop, and deploy machine learning model to automatically detect hack users. 
-       * Visualise, analyse, and monitor game data to capture and prevent maliscious behaviours in game. 
-
-
     ## Education
-    #### Georgia Institute of Technology     2022 - Present  
-    * M.S. Computer Science
+    ### Georgia Institute of Technology     
+    <p style="text-align:left;">
+    M.S. Computer Science
+        <span style="float:right;">
+        <span style="color:steelblue;">
+           Jan 2022 - Present
+        </span>
+    </p>
 
+    #### London School of Economics and Political Science 
+    <p style="text-align:left;">
+        M.S. Media and Communications (Data & Society) 
+            <span style="float:right;">
+            <span style="color:steelblue;">
+           Sep 2019 - Dec 2020
+        </span>
+    </p>
+    * Dissertation: “Combating Cyberbullying on Social Media: Cyberbullying Detection Using Deep Learning” with *Distinction*
 
-    #### London School of Economics and Political Science     2019 - 2020
-    * M.S. Media and Communications (Data & Society) with _Distinction_
-    * Dissertation: “Combating Cyberbullying on Social Media: Cyberbullying Detection Using Deep Learning”
 
 
     There are various ways to contact me (ex. linkedin, email, instagram, etc). 
