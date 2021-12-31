@@ -8,6 +8,14 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
+    ## I am..
+    My Korean name is SeongKyung Kim but mostly known as Irene. 
+    Just like the diversity of the places I was brought up and studied at, which include Seattle, Oklahoma, San Diego, London, and Seoul, I am interested in diverse academic fields.
+    I am enthusiastic about human emotions, abnormal and self-destructive behaviours, deep learning, NLP, computer vision, and game AI. 
+    Although my interest covers broad areas it comes down to just one theme: **AI for vulnerable people**.
+    My goal is to understand humans deeply to make human-centred machines to aid those who are in crisis (haven't exactly figured out which crisis though). 
+    In short, I am a data scientist hoping to make the world a slightly better place to live...!
+    
     ## Professional Experience
     #### Anti-Cheat Data Scientist at [Krafton, PUBG studio ](https://krafton.com)
     * Company Description: PUBG Corporation is the publisher and developer of the 2017 blockbuster battle royale video game, PLAYERUNKNOWN’S BATTLEGROUNDS(PUBG), on multiple platforms. 
@@ -18,7 +26,7 @@ author1:
 
 
     ## Education
-    ### Georgia Institute of Technology     
+    #### Georgia Institute of Technology     
     <p style="text-align:left;">
        M.S. Computer Science
         <span style="float:right;">
@@ -26,7 +34,7 @@ author1:
             *Jan 2022 - Present*
         </span>
     </p>
-
+    
     #### London School of Economics and Political Science 
     <p style="text-align:left;">
         M.S. Media and Communications (Data & Society) 
