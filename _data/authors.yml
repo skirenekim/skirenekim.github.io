@@ -8,6 +8,15 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
+    ## Professional Experience
+    #### Anti-Cheat Data Scientist at [Krafton, PUBG studio ](https://krafton.com)
+    * Company Description: PUBG Corporation is the publisher and developer of the 2017 blockbuster battle royale video game, PLAYERUNKNOWN’S BATTLEGROUNDS(PUBG), on multiple platforms. 
+    Since its release, PUBG has received worldwide acclaim, achieving seven Guinness World Records and winning multiple game awards worldwide.
+    * Roles
+      * Leading a team project to build, develop, and deploy machine learning model to automatically detect hack users. 
+       * Visualise, analyse, and monitor game data to capture and prevent maliscious behaviours in game. 
+
+
     ## Education
     ### Georgia Institute of Technology     
     <p style="text-align:left;">
@@ -30,8 +39,7 @@ author1:
 
 
 
-    There are various ways to contact me (ex. linkedin, email, instagram, etc). 
-    The fastest way is probably via my personal email(keks1208@naver.com) or my business email(sk.kim@krafton.com). 
+    There are various ways to contact me (ex. linkedin, email, instagram, etc). The fastest way is probably via my personal email(keks1208@naver.com) or my business email(sk.kim@krafton.com). 
 
   # This photo will be used in the about section
   picture:  /assets/img/me.jpeg
