@@ -8,19 +8,19 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    ## I am..
+    Irene Kim 
+    ============
     My Korean name is SeongKyung Kim but mostly known as Irene. 
-    
-    Just like the diversity of the places I was brought up and studied at, which include Seattle, Oklahoma, San Diego, London, and Seoul, I am interested in diverse academic fields.
-    I am enthusiastic about human emotions, abnormal and self-destructive behaviours, deep learning, NLP, computer vision, and game AI. 
-    
+
+    Just like the diversity of the places I was brought up and studied at, which include Seattle, Oklahoma, San Diego, London, and Seoul, I am interested in diverse academic fields. I am enthusiastic about human emotions, abnormal and self-destructive behaviours, deep learning, NLP, computer vision, and game AI. 
+
     Although my interest covers broad areas it comes down to one theme: 
     <p style="text-align:center;font-weight:bold;color:steelblue">
-     AI for vulnerable people
+         AI for vulnerable people
     </p>
-    
-    My goal is to deeply understand humans to make human-centred machines to aid those who are in need. 
-    In short, I am a data scientist hoping to make the world a slightly better place to live...!
+
+    My goal is to deeply understand humans to make human-centred machines to aid those who are in need. In short, I am a data scientist hoping to make the world a slightly better place to live...!
+
 
     ## Professional Experience
     #### Anti-Cheat Data Scientist at [Krafton, PUBG studio ](https://krafton.com)<div style="color:steelblue;float:right" markdown=1> Feb 2021 - Present </div>
