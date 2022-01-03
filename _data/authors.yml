@@ -10,20 +10,20 @@ author1:
   about:             |
     ## I am..
     My Korean name is SeongKyung Kim but mostly known as Irene. 
-    Just like the diversity of the places I was brought up and studied at, which include Seattle, Oklahoma, San Diego, London, and Seoul, I am interested in diverse academic fields.
     
+    Just like the diversity of the places I was brought up and studied at, which include Seattle, Oklahoma, San Diego, London, and Seoul, I am interested in diverse academic fields.
     I am enthusiastic about human emotions, abnormal and self-destructive behaviours, deep learning, NLP, computer vision, and game AI. 
     
-    Although my interest covers broad areas it comes down to just one theme: 
-    <p style="text-align:center;font-weight:bold">
+    Although my interest covers broad areas it comes down to one theme: 
+    <p style="text-align:center;font-weight:bold;color:steelblue">
      AI for vulnerable people
     </p>
     
-    My goal is to understand humans deeply to make human-centred machines to aid those who are in crisis (haven't exactly figured out which crisis though). 
+    My goal is to deeply understand humans to make human-centred machines to aid those who are in need. 
     In short, I am a data scientist hoping to make the world a slightly better place to live...!
 
     ## Professional Experience
-    #### Anti-Cheat Data Scientist at [Krafton, PUBG studio ](https://krafton.com)
+    #### Anti-Cheat Data Scientist at [Krafton, PUBG studio ](https://krafton.com)<div style="color:steelblue;float:right"> Feb 2021 - Present </span>
     * <ins>Company Description</ins>: PUBG Corporation is the publisher and developer of the 2017 blockbuster battle royale video game, PLAYERUNKNOWN’S BATTLEGROUNDS(PUBG), on multiple platforms. 
     Since its release, PUBG has received worldwide acclaim, achieving seven Guinness World Records and winning multiple game awards worldwide.
     * Roles
@@ -31,26 +31,14 @@ author1:
        * Visualise, analyse, and monitor game data to capture and prevent maliscious behaviours in game. 
 
     ## Education
-    #### Georgia Institute of Technology     
-    <p style="text-align:left;">
-      M.S. Computer Science	
-        <span style="color:steelblue;font-weight:bold;float:right">
-          Jan 2022 - Present
-        </span> 
-       </p>
+    #### Georgia Institute of Technology <div style="color:steelblue;float:right"> Jan 2022 - Present </span>
+    M.S. Computer Science
 
-    #### London School of Economics and Political Science 
-    <p style="text-align:left;">
-        M.S. Media and Communications (Data & Society) 
-         <span style="color:steelblue;font-weight:bold;float:right">
-          Sep 2019 - Dec 2020
-        </span> 
-       </p>
 
+    #### London School of Economics and Political Science <div style="color:steelblue;float:right"> Sep 2019 - Dec 2020 </span>
+    M.S. Media and Communications (Data & Society)
     * Dissertation: “Combating Cyberbullying on Social Media: Cyberbullying Detection Using Deep Learning” with *Distinction*
 
-
-    There are various ways to reach me (ex. linkedin, email, instagram, etc). The fastest way is probably via my personal email(keks1208@naver.com) or my business email(sk.kim@krafton.com). 
 
   # This photo will be used in the about section
   picture:  /assets/img/me.jpeg
