@@ -51,7 +51,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Tech Blog
-    url:               /docs/
+    url:               https://skirene.medium.com
   - title:             Research Interests
     url:               /example/
   - title:             Life
