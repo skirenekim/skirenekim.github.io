@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
+Irene:
   name:              Irene Kim
   email:             keks1208@naver.com
 
@@ -25,7 +25,7 @@ author1:
     Professional Experience
     ---------
     Feb 2021 - Present
-    :   **<font color="steelblue">Anti-Cheat Data Scientist at [Krafton, PUBG studio](https://krafton.com)</font>**
+    :   **<font color="steelblue">Anti-Cheat Data Scientist at</font>**  **[Krafton, PUBG studio](https://krafton.com)**
         * <ins>Company Description</ins>: PUBG Corporation is the publisher and developer of the 2017 blockbuster battle royale video game, PLAYERUNKNOWN’S BATTLEGROUNDS(PUBG), on multiple platforms. Since its release, PUBG has received worldwide acclaim, achieving seven Guinness World Records and winning multiple game awards worldwide.
         * Roles
           * Leading a team project to build, develop, and deploy machine learning model to automatically detect hack users. 
