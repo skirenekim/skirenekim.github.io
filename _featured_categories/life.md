@@ -9,7 +9,6 @@ title: Life
 slug: life
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
   *Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus*  
 
 # (Optional) You can disable grouping posts by date.
