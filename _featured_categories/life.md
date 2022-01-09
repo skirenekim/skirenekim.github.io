@@ -9,7 +9,7 @@ title: Life
 slug: life
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-1 Thessalonians 5:16-18: >
+1Thessalonians5: >
   *Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus*  
 
 # (Optional) You can disable grouping posts by date.
