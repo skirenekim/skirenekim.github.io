@@ -53,8 +53,8 @@ menu:
   - title:             Tech Blog
     url:               https://skirene.medium.com
   - title:             Life
-    url:               /home/life/
--co title:             Research Interests
+    url:               /life/
+  - title:             Research Interests
     url:               
     
 # Add links to the footer.
